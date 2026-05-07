@@ -1,5 +1,4 @@
-name: Duy tri CSDL QUAN LY THI DUA LE HOAN
-
+name: Duy tri CSDL KIEM TRA TRUC TUYEN
 on:
   schedule:
     # Chạy tự động mỗi giờ một lần
